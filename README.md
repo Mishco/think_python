@@ -1,3 +1,5 @@
+[![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](#)
+
 # Think python examples
 
 Examples from [Think python book](http://greenteapress.com/wp/think-python/)
