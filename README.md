@@ -2,6 +2,8 @@
 
 # Think python examples
 
+## Moved to https://gitlab.com/Mishco/think_python
+
 Examples from [Think python book](http://greenteapress.com/wp/think-python/)
 
 
